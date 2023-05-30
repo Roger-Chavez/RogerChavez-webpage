@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RogerChavez-Website/static/css/main.073c9b0a.css",
-    "main.js": "/RogerChavez-Website/static/js/main.87feb042.js",
-    "static/js/787.28cb0dcd.chunk.js": "/RogerChavez-Website/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/RogerChavez-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/RogerChavez-Website/index.html",
-    "main.073c9b0a.css.map": "/RogerChavez-Website/static/css/main.073c9b0a.css.map",
-    "main.87feb042.js.map": "/RogerChavez-Website/static/js/main.87feb042.js.map",
-    "787.28cb0dcd.chunk.js.map": "/RogerChavez-Website/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/RogerChavez-website/static/css/main.073c9b0a.css",
+    "main.js": "/RogerChavez-website/static/js/main.0f40356c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/RogerChavez-website/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/RogerChavez-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RogerChavez-website/index.html",
+    "main.073c9b0a.css.map": "/RogerChavez-website/static/css/main.073c9b0a.css.map",
+    "main.0f40356c.js.map": "/RogerChavez-website/static/js/main.0f40356c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/RogerChavez-website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.87feb042.js"
+    "static/js/main.0f40356c.js"
   ]
 }
